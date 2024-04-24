@@ -1,6 +1,5 @@
 package chess;
 
-import java.lang.constant.DirectMethodHandleDesc.Kind;
 
 import bordgame.Board;
 import bordgame.Position;
